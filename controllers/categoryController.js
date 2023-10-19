@@ -1,5 +1,4 @@
 const filesystem = require('fs').promises;
-const { error } = require('console');
 const path = require('path');
 
 const categoriesFilePath = path.join(__dirname, '../data/categories.json');
@@ -12,6 +11,19 @@ const getCategories = () => {
         });
 };
 
+const createCategory = (newCategory) => {
+    return getCategories()
+    .then((categoriesData) => {
+        categoriesData.push({ name: newCategory.name });
+        return filesystem.writeFile(categoriesFilePath, JSON.stringify(categoriesData));
+    })
+    .catch((error) => {
+        throw new Error('A categoria não foi criada')
+    })
+
+}
+
 module.exports = {
-    getCategories
+    getCategories,
+    createCategory
 };
