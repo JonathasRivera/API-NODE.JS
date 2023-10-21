@@ -20,7 +20,6 @@ const createCategory = (newCategory) => {
     .catch((error) => {
         throw new Error('A categoria não foi criada')
     })
-
 }
 
 module.exports = {
