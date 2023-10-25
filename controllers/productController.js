@@ -24,7 +24,6 @@ const getProductById = (productId) => {
 const searchProductByName = (productName) => {
     return getProducts()
         .then((productsData) => {
-
             const filtredProds = productsData.filter((product) => 
                 product.title.toLowerCase().includes(productName.toLowerCase())
             );
@@ -36,9 +35,49 @@ const searchProductByName = (productName) => {
         })
 };
 
+const updateProduct = (productId, updatedData) => {
+    return getProducts()
+        .then((productsData) => {
+            const productIndex = productsData.findIndex(
+                product => product.id === parseInt(productId)
+            )
+
+            if(productIndex != -1){
+                const existingProduct = productsData[productIndex];
+
+                if(updatedData.title != undefined){
+                    existingProduct.title = updatedData.title;
+                } 
+                if(updatedData.price != undefined){
+                    existingProduct.price = updatedData.price;
+                }
+
+                productsData[productIndex] = existingProduct;
+
+                return filesystem.writeFile(productFilePath, JSON.stringify(productsData, null, 2), 'utf-8')
+                    .then(() => {
+                        return existingProduct;
+                    })
+                    .error((error) => {
+                        throw new Error('Não foi possível atualizar o produto!')
+                    })
+
+            } else {
+                throw new Error('Não foi encontrado produto com esse id!');
+            }
+
+            }
+        )
+        .catch((error) => {
+            throw new Error('Não possível ler os produtos!');
+        })
+
+}
+
 
 module.exports = {
     getProducts,
     getProductById,
-    searchProductByName
+    searchProductByName,
+    updateProduct
 }
