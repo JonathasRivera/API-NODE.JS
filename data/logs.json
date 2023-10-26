@@ -222,5 +222,110 @@
     "url": "/products/1",
     "params": {},
     "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-25T23:34:15.383Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:06:11.798Z",
+    "method": "GET",
+    "url": "/products/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:06:37.177Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:06:51.553Z",
+    "method": "GET",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:07:31.526Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:09:24.313Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:09:32.148Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:09:36.169Z",
+    "method": "DELETE",
+    "url": "/products/22222",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:09:41.744Z",
+    "method": "DELETE",
+    "url": "/products/fhiofjsdiuf",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:10:44.953Z",
+    "method": "GET",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:10:59.663Z",
+    "method": "DELETE",
+    "url": "/products/1",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:11:20.207Z",
+    "method": "GET",
+    "url": "/products/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:11:39.710Z",
+    "method": "DELETE",
+    "url": "/products/2",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:11:43.323Z",
+    "method": "DELETE",
+    "url": "/products/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-10-26T00:11:50.648Z",
+    "method": "GET",
+    "url": "/products/",
+    "params": {},
+    "ip": "::1"
   }
 ]

@@ -50,5 +50,17 @@ router.put('/:id', (req, res) => {
         })
 })
 
+router.delete('/:id', (req, res) => {
+    const idRecebido = req.params.id;
+
+    productController.deleteProducts(idRecebido)
+        .then((deletedProduct) => {
+            res.status(200).json(deletedProduct);
+        })
+        .catch((error) => {
+            res.status(404).send('Produto não encontrado');
+        })
+})
+
 
 module.exports = router;
