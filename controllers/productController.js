@@ -109,11 +109,40 @@ const deleteProducts  = (productId) => {
         })
 }
 
+const addProduct = (newProductData) => {
+    return getProducts()
+        .then((productsData) => {
+            // Lógica para encontrar o maior id presente na lista de produtos
+            let maxProductId = -1;
+            productsData.forEach(product => {
+                if(product.id > maxProductId){
+                    maxProductId = product.id;
+                }
+            });
+
+            const newProductId = maxProductId + 1;
+            const newProductWithId = Object.assign({id: newProductId}, newProductData)
+
+            productsData.push(newProductWithId)
+
+            return filesystem.writeFile(productFilePath, JSON.stringify(productsData, null, 2), 'utf-8')
+                .then(() => {
+                    return newProductWithId;
+                })
+                .catch((error) => {
+                    throw new Error('Não foi possível adicionar o produto');
+                })
+        })
+        .catch((error) => {
+            console.error("Não possível ler o arquivo de produtos:" + error)
+        })
+}
 
 module.exports = {
     getProducts,
     getProductById,
     searchProductByName,
     updateProduct,
-    deleteProducts
+    deleteProducts,
+    addProduct
 }

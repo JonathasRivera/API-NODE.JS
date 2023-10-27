@@ -62,5 +62,18 @@ router.delete('/:id', (req, res) => {
         })
 })
 
+router.post('/', (req, res) => {
+    const newProductData = req.body;
+
+    productController.addProduct(newProductData)
+        .then((product) => {
+            res.status(201).json(product)
+
+        })
+        .catch((error) => {
+            res.status(500).send('Erro ao adicionar o produto')
+
+        })
+})
 
 module.exports = router;
