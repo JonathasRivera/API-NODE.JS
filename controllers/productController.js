@@ -138,11 +138,87 @@ const addProduct = (newProductData) => {
         })
 }
 
+const applyDiscount = (productId) => {
+    return getProducts()
+        .then((productsData) => {
+            const productIndex = productsData.findIndex(
+                product => product.id === parseInt(productId)
+            )
+
+            if(productIndex != -1){
+                const existingProduct = productsData[productIndex]
+                
+                existingProduct.price = existingProduct.price * 0.9;
+                
+                productsData[productIndex] = existingProduct;
+            
+                return filesystem.writeFile(productFilePath, JSON.stringify(productsData, null, 2), 'utf-8')
+                    .then(() => {
+                        return existingProduct;
+                    })
+                    .catch((error) => {
+                        throw new Error('Não foi possível aplicar o desconto ao produto!')
+                    })
+            } else {
+                throw new Error('Produto não encontrado')
+            }
+        })
+        .catch((error) => {
+            throw new Error('Não possível ler o arquivo de produtos')
+        })
+}
+
+const updateProductRating = (productId, newRating) => {
+    if(newRating < 0 || newRating > 5 ){
+        throw new Error('Nota inválida')
+    }
+
+    return getProducts()
+        .then((productsData) => {
+            const productIndex = productsData.findIndex(
+                product => product.id === parseInt(productId)
+            )
+
+            if(productIndex != -1){
+                const existingProduct = productsData[productIndex]
+
+                //jeito mais rápido de fazer atribuições
+                //const { rate, count } = existingProduct.rating;
+
+                const rate = existingProduct.rating.rate;
+                const count = existingProduct.rating.count;
+
+                existingProduct.rating.rate = (rate * count + newRating) / (count + 1);
+                existingProduct.rating.count += 1;
+
+                productsData[productIndex] = existingProduct;
+
+                return filesystem.writeFile(productFilePath, JSON.stringify(productsData, null, 2), 'utf-8')
+                    .then(() => {
+                        return existingProduct;
+                    })
+                    .catch((error) => {
+                        throw new Error('Não foi possível atualizar a nota do produto')
+                    })
+
+            } else {
+                throw new Error('Produto não encontrado')
+            }
+        })
+        .catch((error) => {
+            throw new Error('Não possível ler o arquivo de produtos')
+        })
+}
+
+
+
 module.exports = {
     getProducts,
     getProductById,
     searchProductByName,
     updateProduct,
     deleteProducts,
-    addProduct
+    addProduct,
+    applyDiscount,
+    updateProductRating
 }
