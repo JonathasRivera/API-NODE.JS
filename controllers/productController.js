@@ -112,7 +112,6 @@ const deleteProducts  = (productId) => {
 const addProduct = (newProductData) => {
     return getProducts()
         .then((productsData) => {
-            // Lógica para encontrar o maior id presente na lista de produtos
             let maxProductId = -1;
             productsData.forEach(product => {
                 if(product.id > maxProductId){
@@ -182,8 +181,6 @@ const updateProductRating = (productId, newRating) => {
             if(productIndex != -1){
                 const existingProduct = productsData[productIndex]
 
-                //jeito mais rápido de fazer atribuições
-                //const { rate, count } = existingProduct.rating;
 
                 const rate = existingProduct.rating.rate;
                 const count = existingProduct.rating.count;

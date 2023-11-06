@@ -130149,5 +130149,1300 @@
     "url": "/products/19",
     "params": {},
     "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:26.611Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::ffff:127.0.0.1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:26.717Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:26.800Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:26.930Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:27.080Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:27.509Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:27.839Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:30.219Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:33.561Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:36.272Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:38.022Z",
+    "method": "POST",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:38.770Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:40.973Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:44.233Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:48.171Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:52.460Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:56.621Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:22:58.372Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:02.601Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:04.914Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:06.760Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:10.344Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:13.448Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:15.228Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:16.912Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:19.299Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:22.819Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:23.905Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:25.845Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:28.881Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:30.504Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:33.578Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:34.779Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:36.364Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:41.080Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:44.766Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:49.633Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:51.310Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:52.803Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:55.785Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:23:59.911Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:04.915Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:06.822Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:07.954Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:12.926Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:16.758Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:20.359Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:23.876Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:27.865Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:30.242Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:33.778Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:37.014Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:41.419Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:45.760Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:49.339Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:53.260Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:55.159Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:24:58.394Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:02.820Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:05.252Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:09.929Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:13.255Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:17.270Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:21.376Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:26.040Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:27.396Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:31.018Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:34.959Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:37.609Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:42.413Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:44.604Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:48.751Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:52.181Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:54.740Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:25:56.602Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:00.076Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:01.551Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:04.617Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:08.790Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:13.393Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:17.897Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:20.225Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:24.601Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:29.291Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:31.025Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:33.805Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:38.031Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:42.103Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:47.000Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:49.060Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:52.627Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:26:55.665Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:00.041Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:03.129Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:05.758Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:09.234Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:12.003Z",
+    "method": "POST",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:13.940Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:15.236Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:17.170Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:21.595Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:24.204Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:27.145Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:29.272Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:30.959Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:32.047Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:34.919Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:37.649Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:40.654Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:45.079Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:47.920Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:50.617Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:55.113Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:27:58.080Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:01.429Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:04.079Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:05.791Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:09.882Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:14.890Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:16.820Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:18.094Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:21.032Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:24.795Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:26.162Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:30.324Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:34.703Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:35.778Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:39.253Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:43.880Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:45.605Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:46.887Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:49.636Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:51.098Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:54.676Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:28:56.863Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:01.038Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:05.297Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:09.495Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:11.782Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:14.459Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:18.154Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:23.101Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:25.308Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:28.049Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:29.688Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:34.547Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:37.413Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:40.217Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:44.229Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:47.263Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:50.067Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:51.532Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:53.295Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:55.750Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:29:58.279Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:01.554Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:03.582Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:08.129Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:11.172Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:14.868Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:16.459Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:19.039Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:22.519Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:25.155Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:26.796Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:29.737Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:32.396Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:36.159Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:37.297Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:38.801Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:43.311Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:46.373Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:50.454Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:54.332Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:30:58.240Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:31:00.680Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:31:02.872Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:31:05.660Z",
+    "method": "GET",
+    "url": "/_next/webpack-hmr",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:52:50.606Z",
+    "method": "GET",
+    "url": "/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:52:51.176Z",
+    "method": "GET",
+    "url": "/favicon.ico",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T22:56:35.894Z",
+    "method": "GET",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T23:00:17.848Z",
+    "method": "GET",
+    "url": "/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T23:00:25.100Z",
+    "method": "GET",
+    "url": "/",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T23:00:56.716Z",
+    "method": "GET",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
+  },
+  {
+    "timestamp": "2023-11-06T23:01:30.435Z",
+    "method": "GET",
+    "url": "/products",
+    "params": {},
+    "ip": "::1"
   }
 ]

@@ -6,7 +6,7 @@ const rateLimit = (req, res, next) => {
     if(requestCountByIP[clientIP]) {
         if(requestCountByIP[clientIP] > 5){
             return res.status(429).json({
-                error: 'Você atingiu o limite de requisições a cada 30 segundos!'
+                error: 'Você atingiu o limite de requisições, aguarde 2 minutos!'
             })
         }
         requestCountByIP[clientIP]++;
@@ -15,7 +15,7 @@ const rateLimit = (req, res, next) => {
 
         setTimeout(() => {
             delete requestCountByIP[clientIP];
-        }, 30000)
+        }, 120000)
     }
     next();
 }
